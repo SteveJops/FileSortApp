@@ -92,7 +92,7 @@ def about_program():
                                          '\n '
                                          '\nThis product is free pay'
                                          '\n '
-                                         '\nAll Icons was taken from google.com')
+                                         '\nAll Icons were taken from google.com')
 
 
 # File Menu
